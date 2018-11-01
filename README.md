@@ -2,11 +2,11 @@
 rpncalculator
 
 #How to run ?
-1. download the java file to local directory.
-2. Make sure java is installed in the machine and all environment variables are set
-3. Use Terminal app (in mac OS / linux) or command app in windows OS
-4. Type javac xxx.java (from the directory where .java file reside)
-5. Type java xxx
+1. Run  Terminal app (in mac OS / linux) or command application in windows OS
+2. clone to local directory
+3. Make sure java is installed in the machine and all environment variables are set 
+4. Type javac calc.java (directory where calc.java file exist eg: /Users/user_name/foldername/rpncalc)
+5. Type java calc
 6. After testing type 'q' to EXIT the application
 
 #How to test the application?
