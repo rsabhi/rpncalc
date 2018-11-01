@@ -10,6 +10,7 @@ rpncalculator
 6. After testing type 'q' to EXIT the application
 
 #How to test the application?
+
 Example 1
 52
 stack: 5 2
