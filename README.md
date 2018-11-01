@@ -1,4 +1,4 @@
-# rpncalc
+# rpncalculator
 rpncalculator
 
 #How to run ?
