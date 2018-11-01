@@ -23,10 +23,7 @@ Example 3
 52 - stack: 3 3- stack: 0 clear stack:
 
 Example 4
-7 12 2 / stack: 7 6 *
-stack: 42 4/
-stack: 10.5
-Example 6
 1 2 3 * 5 + * * 6 5
 operator * (position: 15): insucient parameters stack: 11
+
 
