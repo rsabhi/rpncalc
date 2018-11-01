@@ -27,6 +27,6 @@ Example 4
 stack: 42 4/
 stack: 10.5
 Example 6
-1 2 3 *5 + **6 5
+1 2 3 * 5 + * * 6 5
 operator * (position: 15): insucient parameters stack: 11
 
