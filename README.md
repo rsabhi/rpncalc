@@ -23,13 +23,6 @@ Example 3
 52 - stack: 3 3- stack: 0 clear stack:
 
 Example 4
-543 2
-stack: 5 4 3 2 undo undo * stack: 20
-5*
-stack: 100 undo
-stack: 20 5
-
-Example 5
 7 12 2 / stack: 7 6 *
 stack: 42 4/
 stack: 10.5
